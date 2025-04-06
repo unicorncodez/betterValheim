@@ -21,6 +21,7 @@ Think more content, rangring from animals to mighty spells, expanded building, c
 2. Select **Valheim** as your game.
 3. Search for `betterValheim`.
 4. Click **Install**.
+5. Click on `betterValheim` and install the dependencies.
 
 You're good to go.
 
@@ -28,21 +29,10 @@ You're good to go.
 
 ## 📁 Optional: Importing External Mods & Configs
 
-Some additional tweaks live outside the Thunderstore package. If you want the full experience:
+Some additional tweaks live outside the Thunderstore package. If you want the full experience, check out the main GitHub repo:  
+👉 [**Valheim Modpack Repository**](https://github.com/unicorncodez/betterValheim)
 
-### 🧩 Import Local Mods (.dll files)
-
-1. Download the external mod files here:  
-   [📂 GitHub repo](https://github.com/unicorncodez/betterValheim)
-2. Open Thunderstore Mod Manager.
-3. Go to: `Settings > Import Local Mod`.
-4. Select the downloaded `.dll` files.
-
-### ⚙️ Use Custom Configs (Optional)
-
-1. From the Drive folder, copy any config files you want to use.
-2. In the Mod Manager, go to: `Settings > Browse Profile Folder`.
-3. Paste the configs into `BepInEx\config`.
+---
 
 ## ‼️Final Step: Keep calm and slay some trolls
 
