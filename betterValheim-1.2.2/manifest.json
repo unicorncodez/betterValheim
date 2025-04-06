@@ -1,7 +1,7 @@
 {
   "name": "betterValheim",
   "description": "I had a dream.",
-  "version_number": "1.2.2",
+  "version_number": "1.2.3",
   "website_url": "https://rb.gy/1k8huu",
   "dependencies": [
     "Therzie-MonstrumDeepNorth-2.0.6",

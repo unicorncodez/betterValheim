@@ -3,8 +3,8 @@
 Skål, raider.
 
 This is the unofficial modpack setup used by players on the **BickyBurger Valheim server**.  
-To us, it’s a convenient place to stash everything we use: mods, configs, install instructions, and tweaks.
-To you, it’s a finely curated experience, nicely bundled together.
+To us, it’s a convenient place to stash everything we use: mods, configs, install instructions, and tweaks.  
+To you, it’s a finely curated experience, nicely bundled together.  
 If you're not part of the server, you're still welcome to poke around and borrow whatever you like.
 
 ---
@@ -24,14 +24,14 @@ We keep all relevant mod DLLs, config files, and notes in this repo to make setu
 
 ## 🛠️ BickyMods
 
-You can find the full collection of external Bicky-mod DLLs [`here`](BickyBurgerServerMods).
+You can find the full collection of external Bicky-mod DLLs [`here`](BickyBurgerServerMods).  
 This list is updated as new mods are added or removed from the server.
 
 ---
 
 ## 🌐 External mods
 
-[`here`](ExternalMods) are all the mods that we found are fine additions to betterValheim.
+[`here`](ExternalMods) are all the mods that we found are fine additions to betterValheim.  
 (Most of them should run fine, but always test compatibility)
 
 ---
