@@ -29,7 +29,7 @@ You're good to go.
 
 ## 📁 Optional: Importing External Mods & Configs
 
-Some additional tweaks live outside the Thunderstore package. If you want the full experience, check out the main GitHub repo:  
+Some additional tweaks live outside the Thunderstore package. If you want the full experience, check out the GitHub repo:  
 👉 [**Valheim Modpack Repository**](https://github.com/unicorncodez/betterValheim)
 
 ---
