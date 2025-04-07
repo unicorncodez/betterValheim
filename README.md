@@ -24,21 +24,22 @@ We keep all relevant mod DLLs, config files, and notes in this repo to make setu
 
 ## 🛠️ BickyMods
 
-You can find the full collection of external Bicky-mod DLLs [`here`](BickyBurgerServerMods).  
+You can find the full collection of external Bicky-mod DLLs in the [`BickyBurgerServerMods`](BickyBurgerServerMods) folder.  
 This list is updated as new mods are added or removed from the server.
 
 ---
 
 ## 🌐 External mods
 
-[`here`](ExternalMods) are all the mods that we found are fine additions to betterValheim.  
-(Most of them should run fine, but always test compatibility)
+In the [`ExternalMods`](ExternalMods) folder are all the mods that we found are fine additions to betterValheim.
+
+> (Most of them should run fine, but always test compatibility)
 
 ---
 
 ## 🧾 Configs
 
-All mod and server config files can be found [`here`](configs).
+All mod and server config files can be found in the [`configs`](configs) folder.  
 Use them to match the official BickyBurger server setup, or as a base for your own tweaks.
 
 ---
@@ -47,9 +48,9 @@ Use them to match the official BickyBurger server setup, or as a base for your o
 
 ### 💡 1. Install betterValheim
 
-1. follow the installation guide in `/betterValheim-x.x.x/README.md`.
+1. follow the installation guide in [`/betterValheim/README.md`](https://github.com/unicorncodez/betterValheim/blob/main/betterValheim/README.md).
 
-### 🧩 1. Install desired external mods
+### 🧩 2. Install desired external mods (Optional)
 
 1. Open Thunderstore Mod Manager.
 2. Create a new Valheim profile (or duplicate your current one for safety).
@@ -57,7 +58,7 @@ Use them to match the official BickyBurger server setup, or as a base for your o
 4. Inside the mod manager, go to `Settings > Browse Profile Folder`.
 5. Copy the contents of the repo’s `/ExternalMods` folder into `BepInEx/plugins`.
 
-### ⚙️ 2. Use the Custom Configs (Optional but Recommended)
+### ⚙️ 3. Use the Custom Configs (Optional but Recommended)
 
 1. Still in your profile folder, open `BepInEx/config`.
 2. Copy over the `.cfg` files from `/config` in this repo.
@@ -69,7 +70,8 @@ This step ensures all gameplay settings, difficulty scaling, and mod behavior ma
 
 ## 🙏 Credits & Shoutouts
 
-All respect to the brilliant modders behind these creations—we’re just here smashing things together in the name of Odin. Special thanks to Therzie, who's mods laid the foundation of this pack.
+All respect to the brilliant modders behind these creations—we’re just here smashing things together in the name of Odin.  
+Special thanks to Therzie, who's mods laid the foundation of this pack.
 
 ---
 
@@ -82,6 +84,7 @@ Whether you're on the BickyBurger server or running solo, enjoy the ride.
 See you in the meadows, or the mistlands. 🛡️🔥  
 – **DoesItMatter** 🫡
 
-> Questions, feedback, or glorious bug reports?
-> This isn’t a public modpack project, but feel free to fork it or submit PRs if you’re feeling generous.  
+> Questions, feedback, or glorious bug reports?  
+> This isn’t a public modpack project, but feel free to fork it or submit PRs if you’re feeling generous.
+
 > Any issues you hit while setting it up? Drop them in the [Issues tab](https://github.com/unicorncodez/betterValheim/issues) or send a raven.
