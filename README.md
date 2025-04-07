@@ -55,7 +55,7 @@ Use them to match the official BickyBurger server setup, or as a base for your o
 2. Create a new Valheim profile (or duplicate your current one for safety).
 3. Download this repo (either clone or [📥 download ZIP](https://github.com/unicorncodez/betterValheim/archive/refs/heads/main.zip)).
 4. Inside the mod manager, go to `Settings > Browse Profile Folder`.
-5. Copy the contents of the repo’s `/ExternalMods` folder into `BepInEx/plugins`.
+5. Copy the contents of the `/ExternalMods` folder into `BepInEx/plugins`.
 
 ### ⚙️ 2. Use the Custom Configs (Optional but Recommended)
 
