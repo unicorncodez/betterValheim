@@ -1,7 +1,7 @@
 {
   "name": "betterValheim",
   "description": "I had a dream.",
-  "version_number": "1.2.5",
+  "version_number": "1.3.0",
   "website_url": "https://rb.gy/1k8huu",
   "dependencies": [
     "Therzie-MonstrumDeepNorth-2.0.6",
@@ -35,6 +35,7 @@
     "The_Bees_Decree-SNOWDAY-3.0.0",
     "blacks7ar-OdinsHares-1.2.9",
     "Smoothbrain-DualWield-1.0.9",
-    "VentureValheim-World_Advancement_Progression-0.3.4"
+    "VentureValheim-World_Advancement_Progression-0.3.4",
+    "RandyKnapp-AdvancedPortals-1.0.11"
   ]
 }
