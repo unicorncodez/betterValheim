@@ -1,0 +1,35 @@
+04/08/2025 11:35:47 [DEBUG]: Main config: /mnt/BepInEx/config/games.nwest.valheim.discordconnector/discordconnector.cfg
+04/08/2025 11:35:47 [DEBUG]: Messages config: /mnt/BepInEx/config/games.nwest.valheim.discordconnector/discordconnector-messages.cfg
+04/08/2025 11:35:47 [DEBUG]: Toggles config: /mnt/BepInEx/config/games.nwest.valheim.discordconnector/discordconnector-toggles.cfg
+04/08/2025 11:35:47 [DEBUG]: Variable config: /mnt/BepInEx/config/games.nwest.valheim.discordconnector/discordconnector-variables.cfg
+04/08/2025 11:35:47 [DEBUG]: Leader board config: /mnt/BepInEx/config/games.nwest.valheim.discordconnector/discordconnector-leaderBoards.cfg
+04/08/2025 11:35:47 [DEBUG]: Extra Webhook config: /mnt/BepInEx/config/games.nwest.valheim.discordconnector/discordconnector-extraWebhooks.cfg
+04/08/2025 11:35:47 [DEBUG]: Webhooks: cleaned config entry 'ALL' => 'ALL'
+04/08/2025 11:35:47 [DEBUG]: Coerced null or empty Primary webhook url to empty string. Ignoring event list.
+04/08/2025 11:35:47 [DEBUG]: Webhooks: cleaned config entry 'ALL' => 'ALL'
+04/08/2025 11:35:47 [DEBUG]: Coerced null or empty Secondary webhook url to empty string. Ignoring event list.
+04/08/2025 11:35:47 [DEBUG]: ExtraWebhooks: Skipping Webhook 1 because URL or Events are empty.
+04/08/2025 11:35:47 [DEBUG]: ExtraWebhooks: Skipping Webhook 2 because URL or Events are empty.
+04/08/2025 11:35:47 [DEBUG]: ExtraWebhooks: Skipping Webhook 3 because URL or Events are empty.
+04/08/2025 11:35:47 [DEBUG]: ExtraWebhooks: Skipping Webhook 4 because URL or Events are empty.
+04/08/2025 11:35:47 [DEBUG]: ExtraWebhooks: Skipping Webhook 5 because URL or Events are empty.
+04/08/2025 11:35:47 [DEBUG]: ExtraWebhooks: Skipping Webhook 6 because URL or Events are empty.
+04/08/2025 11:35:48 [DEBUG]: ExtraWebhooks: Skipping Webhook 7 because URL or Events are empty.
+04/08/2025 11:35:48 [DEBUG]: ExtraWebhooks: Skipping Webhook 8 because URL or Events are empty.
+04/08/2025 11:35:48 [DEBUG]: ExtraWebhooks: Skipping Webhook 9 because URL or Events are empty.
+04/08/2025 11:35:48 [DEBUG]: ExtraWebhooks: Skipping Webhook 10 because URL or Events are empty.
+04/08/2025 11:35:48 [DEBUG]: ExtraWebhooks: Skipping Webhook 11 because URL or Events are empty.
+04/08/2025 11:35:48 [DEBUG]: ExtraWebhooks: Skipping Webhook 12 because URL or Events are empty.
+04/08/2025 11:35:48 [DEBUG]: ExtraWebhooks: Skipping Webhook 13 because URL or Events are empty.
+04/08/2025 11:35:48 [DEBUG]: ExtraWebhooks: Skipping Webhook 14 because URL or Events are empty.
+04/08/2025 11:35:48 [DEBUG]: ExtraWebhooks: Skipping Webhook 15 because URL or Events are empty.
+04/08/2025 11:35:48 [DEBUG]: ExtraWebhooks: Skipping Webhook 16 because URL or Events are empty.
+04/08/2025 11:35:48 [DEBUG]: Configuration Loaded
+04/08/2025 11:35:48 [DEBUG]: Muted Players Regex pattern ('a^' is default for no matches): a^
+04/08/2025 11:35:48 [DEBUG]: Plugin DiscordConnector is loaded!
+04/08/2025 11:35:48 [DEBUG]: Dumped configuration files to config-dump.json
+04/08/2025 11:35:48 [WARNING]: No value set for WebHookURL! Plugin will run without using a main Discord webhook.
+04/08/2025 11:38:31 [DEBUG]: Getting public IP address.
+04/08/2025 11:38:33 [DEBUG]: Public IP address is '46.251.234.86'
+04/08/2025 11:38:41 [INFO]: Registered RPC: DiscordConnector_OnNewChatMessage
+04/08/2025 11:41:27 [DEBUG]: Closing LiteDB connection
